@@ -1,6 +1,6 @@
 
 
-[![jiesi-lei](https://img.shields.io/badge/jiesi-lei-github-blue?logo=github)](https://github.com/jiesi-lei)
+[![jiesi-lei](https://img.shields.io/badge/jiesi_lei-github-blue?logo=github)](https://github.com/jiesi-lei)
 
 She is currently pursuing a PhD Degree in Environmental Science, at School of Environment, Tsinghua University, China.
 
